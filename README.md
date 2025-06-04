@@ -97,4 +97,4 @@ A polished, human-readable report is included in this repo:
 
 **Felix Stephen Aidoo**  
 🎓 MSc Data Science | 📊 Data & AI Enthusiast  
-🔗 [LinkedIn](linkedin.com/in/felix-s-aidoo) | 💻 [GitHub](https://github.com/YFelix-Aid)
+🔗 www.linkedin.com/in/felix-s-aidoo | 💻 [[[GitHub](https://github.com/Felix-Aid)]
