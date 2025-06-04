@@ -80,7 +80,7 @@ We applied a Random Forest Classifier after handling class imbalance with SMOTE.
 ## 📄 Final Report
 
 A polished, human-readable report is included in this repo:  
-📎 **[Customer_Churn_Final_Report.pdf](Customer_Churn_Final_Report.pdf)**
+📎 **[Customer_Churn_Final_Report.pdf](Telco_Final_Report.pdf)**
 
 ---
 
