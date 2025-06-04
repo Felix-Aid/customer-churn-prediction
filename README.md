@@ -71,8 +71,6 @@ We applied a Random Forest Classifier after handling class imbalance with SMOTE.
 ### 📈 ROC Curve  
 ![ROC Curve](images/roc_curve.png)
 
-### 📊 Precision-Recall Curve  
-![Precision Recall](images/precision_recall_curve.png)
 
 ### 🔍 Feature Importance  
 ![Feature Importance](images/feature_importance.png)
@@ -99,4 +97,4 @@ A polished, human-readable report is included in this repo:
 
 **Felix Stephen Aidoo**  
 🎓 MSc Data Science | 📊 Data & AI Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | 💻 [GitHub](https://github.com/YOUR_USERNAME)
+🔗 [LinkedIn](linkedin.com/in/felix-s-aidoo) | 💻 [GitHub](https://github.com/YOUR_USERNAME)
